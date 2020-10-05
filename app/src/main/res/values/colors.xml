@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mycolor1">#3F51B5</color>
+    <color name="mycolor">#FF5722</color>
+    <color name="nuevo">#EF2020</color>
+    <color name="nuevo2">#8C5B35</color>
+    <color name="white">#fff</color>
+</resources>
